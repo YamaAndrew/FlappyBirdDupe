@@ -16,7 +16,7 @@ Yama Bird is a Flappy Bird-inspired iOS game where players tap to keep the bird 
 
 ## Demo
 
-[Include a GIF or link to a video of gameplay here to give readers a quick preview of the game.]
+[(https://www.youtube.com/shorts/N8Hu7E-QcB4)]
 
 ## Features
 
